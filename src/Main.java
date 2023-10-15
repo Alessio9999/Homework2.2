@@ -127,6 +127,7 @@ public class Main {
                 + diffDenisSalaryPerYear + " рублей");
         System.out.println ("Кристина теперь получает " + kristinaIncSalary + " рублей в месяц. Годовой доход вырос на "
                 + diffKristinaSalaryPerYear + " рублей");
+
     }
     public static void main(String[] args)
     {
